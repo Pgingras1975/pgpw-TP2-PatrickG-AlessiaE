@@ -45,8 +45,13 @@ body {
     color: azure;
   }
   
-  #patrick main section p {
+  #patrick main section ul li {
     font-style: italic;
+    color: rgb(228, 235, 28);
+  }
+
+  #patrick main section h3 {
+    font-size: 36px;
     color: rgb(228, 235, 28);
   }
 
